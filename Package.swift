@@ -19,6 +19,9 @@ let package = Package(
             name: "MarkdownEditor",
             dependencies: [
                 .product(name: "cmark", package: "swift-cmark"),
+            ],
+            resources: [
+                .process("ROADMAP.md"),
             ]
         ),
         .testTarget(

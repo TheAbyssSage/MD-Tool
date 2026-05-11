@@ -10,8 +10,20 @@ struct ExportCommands: Commands {
                 Button("Export as \(exporter.fileExtension.uppercased())") {
                     export(using: exporter)
                 }
+                .keyboardShortcut(shortcut(for: exporter.fileExtension))
                 .disabled(document == nil)
             }
+        }
+    }
+
+    private func shortcut(for ext: String) -> KeyboardShortcut? {
+        switch ext {
+        case "html": return KeyboardShortcut(.init("h"), modifiers: [.command, .shift])
+        case "txt":  return KeyboardShortcut(.init("t"), modifiers: [.command, .shift])
+        case "pdf":  return KeyboardShortcut(.init("p"), modifiers: [.command, .shift])
+        case "docx": return KeyboardShortcut(.init("d"), modifiers: [.command, .shift])
+        case "jpg":  return KeyboardShortcut(.init("j"), modifiers: [.command, .shift])
+        default: return nil
         }
     }
 

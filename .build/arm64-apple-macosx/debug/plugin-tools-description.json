@@ -7,7 +7,20 @@
     }
   ],
   "copyCommands" : {
-
+    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/ROADMAP.md" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ROADMAP.md"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/ROADMAP.md"
+        }
+      ]
+    }
   },
   "explicitTargetDependencyImportCheckingMode" : {
     "none" : {
@@ -96,7 +109,15 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<MarkdownEditor-arm64-apple-macosx-debug.module-resources>"
         },
         {
           "kind" : "file",
@@ -199,7 +220,8 @@
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -214,7 +236,7 @@
         "-j8",
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
-        "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
         "-Xcc",
         "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
         "-Xcc",
@@ -329,6 +351,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditor.swiftmodule"
         }
       ],
@@ -350,7 +376,8 @@
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
       ],
       "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build",
       "wholeModuleOptimization" : false
@@ -667,6 +694,7 @@
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift",
       "-I",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
       "-target",
@@ -681,7 +709,7 @@
       "-j8",
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
-      "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
       "-Xcc",
       "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
       "-Xcc",
@@ -995,6 +1023,10 @@
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
         }
       ],
       "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources"
@@ -1073,6 +1105,10 @@
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
         },
         {
           "kind" : "file",
@@ -1241,6 +1277,10 @@
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
         },
         {
           "kind" : "file",

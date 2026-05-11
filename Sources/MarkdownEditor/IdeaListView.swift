@@ -43,7 +43,28 @@ struct IdeaListView: View {
                     }
                     .disabled(newTitle.isEmpty)
                 }
+
+                Section {
+                    Button("Load Roadmap Ideas") {
+                        loadRoadmap(into: store)
+                    }
+                }
             }
+        }
+    }
+
+    private func loadRoadmap(into store: IdeaStore) {
+        guard let url = Bundle.module.url(forResource: "ROADMAP", withExtension: "md"),
+              let text = try? String(contentsOf: url)
+        else { return }
+        let pattern = #"^- \[.\] (.+)$"#
+        let regex = try! NSRegularExpression(pattern: pattern, options: .anchorsMatchLines)
+        let range = NSRange(text.startIndex..., in: text)
+        regex.enumerateMatches(in: text, options: [], range: range) { match, _, _ in
+            guard let range = match?.range(at: 1),
+                  let swiftRange = Range(range, in: text)
+            else { return }
+            store.add(title: String(text[swiftRange]))
         }
     }
 }
