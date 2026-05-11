@@ -1,1 +1,25 @@
-.github
+# Build artifacts
+.build/
+DerivedData/
+
+# macOS system files
+.DS_Store
+
+# Xcode / SwiftPM user-specific data
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+.swiftpm/
+
+# Git worktrees
+.worktrees/
+
+# Local tooling / IDE
+.idea/
+
+# Project-specific local config
+.github/
+.superpowers/
+
+# Original favicons (generated app icons are in Sources/MarkdownEditor/Assets.xcassets)
+favicon_io/

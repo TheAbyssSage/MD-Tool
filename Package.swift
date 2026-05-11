@@ -22,6 +22,7 @@ let package = Package(
             ],
             resources: [
                 .process("ROADMAP.md"),
+                .process("Assets.xcassets"),
             ]
         ),
         .testTarget(
