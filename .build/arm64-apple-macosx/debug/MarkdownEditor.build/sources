@@ -5,6 +5,9 @@
 /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift
 /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift
 /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift
+/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/Idea.swift
+/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaListView.swift
+/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaStore.swift
 /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/JPEGExporter.swift
 /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift
 /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift

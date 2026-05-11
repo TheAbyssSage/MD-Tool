@@ -1,4 +1,5 @@
 import SwiftUI
+import SwiftData
 
 @main
 struct MarkdownEditorApp: App {
@@ -6,6 +7,7 @@ struct MarkdownEditorApp: App {
         DocumentGroup(newDocument: MarkdownDocument()) { file in
             ContentView(document: file.$document)
         }
+        .modelContainer(for: Idea.self)
         .commands {
             ExportCommands()
         }
