@@ -1,7 +1,7 @@
 dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/Darwin.modulemap \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/references.c \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/cmark.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/references.c \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/cmark.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/stdio.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/DarwinFoundation2.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/DarwinFoundation1.modulemap \
@@ -179,19 +179,19 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/_time.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/sys/_types/_timespec.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/xlocale/_time.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include/cmark_export.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include/cmark_version.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/utf8.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include/cmark_export.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include/cmark_version.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/utf8.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdint.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/buffer.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/buffer.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/stddef.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/string.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/limits.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/config.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/config.h \
   /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/21/include/stdbool.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/parser.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/references.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/chunk.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/parser.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/references.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/chunk.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/stdlib.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/DarwinFoundation3.modulemap \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/pthread/pthread.h \
@@ -241,6 +241,6 @@ dependencies: \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/xlocale/_wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/xlocale/___wctype.h \
   /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX26.4.sdk/usr/include/assert.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/cmark_ctype.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/node.h \
-  /Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/inlines.h
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/cmark_ctype.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/node.h \
+  /Users/sage/Library/Mobile\ Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/inlines.h

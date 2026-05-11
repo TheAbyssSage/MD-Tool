@@ -3,7 +3,7 @@ import Foundation
 extension Foundation.Bundle {
     static let module: Bundle = {
         let mainPath = Bundle.main.bundleURL.appendingPathComponent("MarkdownEditor_MarkdownEditor.bundle").path
-        let buildPath = "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle"
+        let buildPath = "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle"
 
         let preferredBundle = Bundle(path: mainPath)
 

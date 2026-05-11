@@ -1,23 +1,37 @@
 {
   "builtTestProducts" : [
     {
-      "binaryPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.xctest/Contents/MacOS/MarkdownEditorPackageTests",
-      "packagePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor",
+      "binaryPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.xctest/Contents/MacOS/MarkdownEditorPackageTests",
+      "packagePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool",
       "productName" : "MarkdownEditorPackageTests"
     }
   ],
   "copyCommands" : {
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/ROADMAP.md" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/Assets.xcassets" : {
+      "inputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/Assets.xcassets"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "directory",
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/Assets.xcassets"
+        }
+      ]
+    },
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/ROADMAP.md" : {
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ROADMAP.md"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ROADMAP.md"
         }
       ],
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/ROADMAP.md"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor_MarkdownEditor.bundle/ROADMAP.md"
         }
       ]
     }
@@ -36,84 +50,84 @@
   "swiftCommands" : {
     "C.MarkdownEditor-arm64-apple-macosx-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources",
-      "importPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources",
+      "importPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ContentView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/DOCXExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/DOCXExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/EditorView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/EditorView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportCommands.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportCommands.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportEngine.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/FocusedValues.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/HTMLExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/Idea.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/Idea.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaListView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaListView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaStore.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaStore.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/JPEGExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/JPEGExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownDocument.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownEditorApp.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownParser.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PDFExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PreviewView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/TextExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "virtual",
@@ -121,107 +135,107 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources"
         }
       ],
       "isLibrary" : false,
       "moduleName" : "MarkdownEditor",
-      "moduleOutputPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditor.swiftmodule",
+      "moduleOutputPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditor.swiftmodule",
       "objects" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -230,7 +244,7 @@
         "-enable-batch-mode",
         "-serialize-diagnostics",
         "-index-store-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-j8",
@@ -238,13 +252,13 @@
         "-DDEBUG",
         "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
         "-Xcc",
-        "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+        "-fmodule-map-file=/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
         "-Xcc",
         "-I",
         "-Xcc",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include",
         "-module-cache-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-Xfrontend",
         "-entry-point-function-name",
@@ -277,138 +291,138 @@
         "-Xcc",
         "-g",
         "-package-name",
-        "markdown_editor"
+        "md_tool"
       ],
-      "outputFileMapPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditor.swiftmodule"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditor.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/DOCXExporter.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/EditorView.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportCommands.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/Idea.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaListView.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaStore.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/JPEGExporter.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ContentView.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/DOCXExporter.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/EditorView.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportCommands.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportEngine.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/FocusedValues.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/HTMLExporter.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/Idea.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaListView.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaStore.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/JPEGExporter.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownDocument.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownEditorApp.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownParser.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PDFExporter.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PreviewView.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/TextExporter.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
       ],
-      "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build",
+      "tempsPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build",
       "wholeModuleOptimization" : false
     },
     "C.MarkdownEditorPackageTests-arm64-apple-macosx-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources",
-      "importPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources",
+      "importPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources"
         }
       ],
       "isLibrary" : true,
       "moduleName" : "MarkdownEditorPackageTests",
-      "moduleOutputPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorPackageTests.swiftmodule",
+      "moduleOutputPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorPackageTests.swiftmodule",
       "objects" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -417,7 +431,7 @@
         "-enable-batch-mode",
         "-serialize-diagnostics",
         "-index-store-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-Xfrontend",
@@ -427,18 +441,18 @@
         "-DDEBUG",
         "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
         "-Xcc",
-        "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+        "-fmodule-map-file=/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
         "-Xcc",
         "-I",
         "-Xcc",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include",
         "-module-cache-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
         "-emit-objc-header",
         "-emit-objc-header-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/include/MarkdownEditorPackageTests-Swift.h",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/include/MarkdownEditorPackageTests-Swift.h",
         "-color-diagnostics",
         "-plugin-path",
         "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
@@ -464,93 +478,93 @@
         "-Xcc",
         "-g",
         "-package-name",
-        "markdown_editor"
+        "md_tool"
       ],
-      "outputFileMapPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorPackageTests.swiftmodule"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorPackageTests.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
       ],
-      "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build",
+      "tempsPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build",
       "wholeModuleOptimization" : false
     },
     "C.MarkdownEditorTests-arm64-apple-macosx-debug.module" : {
       "executable" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc",
-      "fileList" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources",
-      "importPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
+      "fileList" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources",
+      "importPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules",
       "inputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/DOCXExporterTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/EditorViewTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportCommandsTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportCommandsTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportEngineTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportEngineTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/IdeaStoreTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/IdeaStoreTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/JPEGExporterTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/PDFExporterTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources"
         }
       ],
       "isLibrary" : true,
       "moduleName" : "MarkdownEditorTests",
-      "moduleOutputPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule",
+      "moduleOutputPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule",
       "objects" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportCommandsTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/IdeaStoreTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportCommandsTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/IdeaStoreTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -559,7 +573,7 @@
         "-enable-batch-mode",
         "-serialize-diagnostics",
         "-index-store-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/index/store",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/index/store",
         "-Onone",
         "-enable-testing",
         "-Xfrontend",
@@ -569,13 +583,13 @@
         "-DDEBUG",
         "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
         "-Xcc",
-        "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+        "-fmodule-map-file=/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
         "-Xcc",
         "-I",
         "-Xcc",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include",
         "-module-cache-path",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
         "-parse-as-library",
         "-color-diagnostics",
@@ -605,64 +619,64 @@
         "-Xcc",
         "-g",
         "-package-name",
-        "markdown_editor"
+        "md_tool"
       ],
-      "outputFileMapPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/output-file-map.json",
+      "outputFileMapPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/output-file-map.json",
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportCommandsTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportCommandsTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/IdeaStoreTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/IdeaStoreTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportCommandsTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportEngineTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/IdeaStoreTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift"
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/DOCXExporterTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/EditorViewTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportCommandsTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportEngineTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/IdeaStoreTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/JPEGExporterTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
+        "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/PDFExporterTests.swift"
       ],
-      "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build",
+      "tempsPath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build",
       "wholeModuleOptimization" : false
     }
   },
@@ -675,35 +689,35 @@
       "-module-name",
       "MarkdownEditor",
       "-package-name",
-      "markdown_editor",
+      "md_tool",
       "-c",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/DOCXExporter.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/EditorView.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportCommands.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/Idea.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaListView.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaStore.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/JPEGExporter.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ContentView.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/DOCXExporter.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/EditorView.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportCommands.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportEngine.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/FocusedValues.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/HTMLExporter.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/Idea.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaListView.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaStore.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/JPEGExporter.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownDocument.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownEditorApp.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownParser.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PDFExporter.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PreviewView.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/TextExporter.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift",
       "-I",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx14.0",
       "-incremental",
       "-enable-batch-mode",
       "-serialize-diagnostics",
       "-index-store-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-j8",
@@ -711,13 +725,13 @@
       "-DDEBUG",
       "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
       "-Xcc",
-      "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+      "-fmodule-map-file=/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
       "-Xcc",
       "-I",
       "-Xcc",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include",
       "-module-cache-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-Xfrontend",
       "-entry-point-function-name",
@@ -750,7 +764,7 @@
       "-Xcc",
       "-g",
       "-package-name",
-      "markdown_editor",
+      "md_tool",
       "-driver-use-frontend-path",
       "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
     ],
@@ -759,18 +773,18 @@
       "-module-name",
       "MarkdownEditorPackageTests",
       "-package-name",
-      "markdown_editor",
+      "md_tool",
       "-c",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift",
       "-I",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx14.0",
       "-incremental",
       "-enable-batch-mode",
       "-serialize-diagnostics",
       "-index-store-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-Xfrontend",
@@ -780,18 +794,18 @@
       "-DDEBUG",
       "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
       "-Xcc",
-      "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+      "-fmodule-map-file=/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
       "-Xcc",
       "-I",
       "-Xcc",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include",
       "-module-cache-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
       "-emit-objc-header",
       "-emit-objc-header-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/include/MarkdownEditorPackageTests-Swift.h",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/include/MarkdownEditorPackageTests-Swift.h",
       "-color-diagnostics",
       "-plugin-path",
       "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/host/plugins/testing",
@@ -817,7 +831,7 @@
       "-Xcc",
       "-g",
       "-package-name",
-      "markdown_editor",
+      "md_tool",
       "-driver-use-frontend-path",
       "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
     ],
@@ -826,26 +840,26 @@
       "-module-name",
       "MarkdownEditorTests",
       "-package-name",
-      "markdown_editor",
+      "md_tool",
       "-c",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportCommandsTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportEngineTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/IdeaStoreTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/DOCXExporterTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/EditorViewTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportCommandsTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportEngineTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/IdeaStoreTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/JPEGExporterTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/PDFExporterTests.swift",
       "-I",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/Modules",
       "-target",
       "arm64-apple-macosx14.0",
       "-incremental",
       "-enable-batch-mode",
       "-serialize-diagnostics",
       "-index-store-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/index/store",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/index/store",
       "-Onone",
       "-enable-testing",
       "-Xfrontend",
@@ -855,13 +869,13 @@
       "-DDEBUG",
       "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
       "-Xcc",
-      "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+      "-fmodule-map-file=/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
       "-Xcc",
       "-I",
       "-Xcc",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/checkouts/swift-cmark/src/include",
       "-module-cache-path",
-      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
+      "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
       "-parse-as-library",
       "-color-diagnostics",
@@ -891,7 +905,7 @@
       "-Xcc",
       "-g",
       "-package-name",
-      "markdown_editor",
+      "md_tool",
       "-driver-use-frontend-path",
       "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
     ]
@@ -917,14 +931,14 @@
 
   },
   "testEntryPointCommands" : {
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift" : {
       "inputs" : [
 
       ],
       "outputs" : [
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
         }
       ]
     }
@@ -935,7 +949,7 @@
     }
   },
   "writeCommands" : {
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor-entitlement.plist" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor-entitlement.plist" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -947,9 +961,9 @@
           "name" : "<com.apple.security.get-task-allow>"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor-entitlement.plist"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor-entitlement.plist"
     },
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -958,80 +972,80 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ContentView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/DOCXExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/DOCXExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/EditorView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/EditorView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportCommands.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportCommands.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportEngine.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/FocusedValues.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/HTMLExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/Idea.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/Idea.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaListView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaListView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaStore.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaStore.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/JPEGExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/JPEGExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownDocument.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownEditorApp.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownParser.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PDFExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PreviewView.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/TextExporter.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources"
     },
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.product/Objects.LinkFileList" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.product/Objects.LinkFileList" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -1040,156 +1054,156 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.product/Objects.LinkFileList"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.product/Objects.LinkFileList"
     },
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -1198,12 +1212,12 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.derived/runner.swift"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/sources"
     },
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.product/Objects.LinkFileList" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.product/Objects.LinkFileList" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -1212,196 +1226,196 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportCommandsTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportCommandsTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/IdeaStoreTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/IdeaStoreTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.product/Objects.LinkFileList"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.product/Objects.LinkFileList"
     },
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources" : {
       "alwaysOutOfDate" : false,
       "inputs" : [
         {
@@ -1410,44 +1424,44 @@
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/DOCXExporterTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/EditorViewTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportCommandsTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportCommandsTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportEngineTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/ExportEngineTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/IdeaStoreTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/IdeaStoreTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/JPEGExporterTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
         },
         {
           "kind" : "file",
-          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift"
+          "name" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Tests/MarkdownEditorTests/PDFExporterTests.swift"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources"
     },
-    "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
+    "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt" : {
       "alwaysOutOfDate" : true,
       "inputs" : [
         {
@@ -1459,7 +1473,7 @@
           "name" : "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/swiftc"
         }
       ],
-      "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+      "outputFilePath" : "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
     }
   }
 }

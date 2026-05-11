@@ -1,6 +1,6 @@
 ---
 triple:          'arm64-apple-darwin'
-binary-path:     '/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor'
+binary-path:     '/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor'
 relocations:
   - { offset: 0xF8857, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor11ContentViewV8documentAA0A8DocumentVvg', symObjAddr: 0x0, symBinAddr: 0x100001598, symSize: 0x9C }
   - { offset: 0xF89AE, size: 0x8, addend: 0x0, symName: '_$s7SwiftUI7BindingVy14MarkdownEditor0D8DocumentVGWOc', symObjAddr: 0x9C, symBinAddr: 0x100001634, symSize: 0x78 }
@@ -238,7 +238,7 @@ relocations:
   - { offset: 0xFB223, size: 0x8, addend: 0x0, symName: '_$sSo15NSModalResponseaSHSCSH4hash4intoys6HasherVz_tFTW', symObjAddr: 0x30DC, symBinAddr: 0x10000AA54, symSize: 0x44 }
   - { offset: 0xFB237, size: 0x8, addend: 0x0, symName: '_$sSo15NSModalResponseaSHSCSH13_rawHashValue4seedS2i_tFTW', symObjAddr: 0x3120, symBinAddr: 0x10000AA98, symSize: 0x44 }
   - { offset: 0xFB3CB, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor16ExporterRegistryO3all_WZ', symObjAddr: 0x0, symBinAddr: 0x10000B854, symSize: 0x14C }
-  - { offset: 0xFB3EF, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor16ExporterRegistryO3allSayAA12ExportEngine_pGvpZ', symObjAddr: 0x2538, symBinAddr: 0x100079F98, symSize: 0x0 }
+  - { offset: 0xFB3EF, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor16ExporterRegistryO3allSayAA12ExportEngine_pGvpZ', symObjAddr: 0x26A8, symBinAddr: 0x100079F98, symSize: 0x0 }
   - { offset: 0xFB3FD, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor16ExporterRegistryO3all_WZ', symObjAddr: 0x0, symBinAddr: 0x10000B854, symSize: 0x14C }
   - { offset: 0xFB417, size: 0x8, addend: 0x0, symName: ___swift_allocate_boxed_opaque_existential_1, symObjAddr: 0x1CC, symBinAddr: 0x10000B9A0, symSize: 0x5C }
   - { offset: 0xFB42B, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor16ExporterRegistryO3allSayAA12ExportEngine_pGvau', symObjAddr: 0x268, symBinAddr: 0x10000B9FC, symSize: 0x50 }
@@ -840,7 +840,7 @@ relocations:
   - { offset: 0x1029ED, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor12TextExporterVAA12ExportEngineA2aDP6utType07UniformH11Identifiers6UTTypeVvgTW', symObjAddr: 0x8B4, symBinAddr: 0x100020D6C, symSize: 0x14 }
   - { offset: 0x102A01, size: 0x8, addend: 0x0, symName: '_$s14MarkdownEditor12TextExporterVAA12ExportEngineA2aDP6exporty10Foundation4DataVSSKFTW', symObjAddr: 0x8C8, symBinAddr: 0x100020D80, symSize: 0x5C }
   - { offset: 0x102B25, size: 0x8, addend: 0x0, symName: '_$sSo8NSBundleC14MarkdownEditorE6module_WZ', symObjAddr: 0x0, symBinAddr: 0x10002147C, symSize: 0x1C }
-  - { offset: 0x102B49, size: 0x8, addend: 0x0, symName: '_$sSo8NSBundleC14MarkdownEditorE6moduleABvpZ', symObjAddr: 0x2BD8, symBinAddr: 0x100079FA0, symSize: 0x0 }
+  - { offset: 0x102B49, size: 0x8, addend: 0x0, symName: '_$sSo8NSBundleC14MarkdownEditorE6moduleABvpZ', symObjAddr: 0x2D60, symBinAddr: 0x100079FA0, symSize: 0x0 }
   - { offset: 0x102B57, size: 0x8, addend: 0x0, symName: '_$sSo8NSBundleC14MarkdownEditorE6module_WZ', symObjAddr: 0x0, symBinAddr: 0x10002147C, symSize: 0x1C }
   - { offset: 0x102B71, size: 0x8, addend: 0x0, symName: '_$sSo8NSBundleC14MarkdownEditorE6moduleABvau', symObjAddr: 0x578, symBinAddr: 0x1000219F4, symSize: 0x50 }
   - { offset: 0x102B8F, size: 0x8, addend: 0x0, symName: '_$sSo8NSBundleCMa', symObjAddr: 0x604, symBinAddr: 0x100021A80, symSize: 0x60 }

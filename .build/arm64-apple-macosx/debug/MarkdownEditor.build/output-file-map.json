@@ -1,131 +1,131 @@
 {
   "": {
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/primary.swiftdeps"
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/primary.swiftdeps"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ContentView.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/DOCXExporter.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/DOCXExporter.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DOCXExporter.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/EditorView.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/EditorView.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportCommands.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportCommands.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/ExportEngine.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/FocusedValues.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/HTMLExporter.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/Idea.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/Idea.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/Idea.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaListView.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaListView.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaListView.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/IdeaStore.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/IdeaStore.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/IdeaStore.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/JPEGExporter.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/JPEGExporter.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/JPEGExporter.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownDocument.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownEditorApp.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/MarkdownParser.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PDFExporter.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PDFExporter.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PDFExporter.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/PreviewView.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/PreviewView.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/PreviewView.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/TextExporter.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/Sources/MarkdownEditor/TextExporter.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/TextExporter.dia"
   },
-  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift": {
-    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.d",
-    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o",
-    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor~partial.swiftmodule",
-    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swiftdeps",
-    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.dia"
+  "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.d",
+    "object": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/sage/Library/Mobile Documents/com~apple~CloudDocs/Desktop/Projects/Work/MD-Tool/.build/arm64-apple-macosx/debug/MarkdownEditor.build/resource_bundle_accessor.dia"
   }
 }
