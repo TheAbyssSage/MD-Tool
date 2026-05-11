@@ -5,5 +5,6 @@ struct ContentView: View {
 
     var body: some View {
         EditorView(text: $document.text)
+            .focusedValue(\.document, $document)
     }
 }

@@ -6,5 +6,8 @@ struct MarkdownEditorApp: App {
         DocumentGroup(newDocument: MarkdownDocument()) { file in
             ContentView(document: file.$document)
         }
+        .commands {
+            ExportCommands()
+        }
     }
 }

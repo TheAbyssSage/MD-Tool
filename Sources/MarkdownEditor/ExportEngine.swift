@@ -7,7 +7,6 @@ protocol ExportEngine: Sendable {
     func export(_ markdown: String) throws -> Data
 }
 
-@MainActor
 enum ExporterRegistry {
     static let all: [any ExportEngine] = [
         HTMLExporter(),

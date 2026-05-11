@@ -23,12 +23,26 @@
     "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.swiftdeps",
     "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/EditorView.dia"
   },
+  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportCommands.swift": {
+    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.d",
+    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swift.o",
+    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.swiftdeps",
+    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportCommands.dia"
+  },
   "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ExportEngine.swift": {
     "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.d",
     "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swift.o",
     "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine~partial.swiftmodule",
     "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.swiftdeps",
     "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ExportEngine.dia"
+  },
+  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/FocusedValues.swift": {
+    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.d",
+    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swift.o",
+    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.swiftdeps",
+    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/FocusedValues.dia"
   },
   "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/HTMLExporter.swift": {
     "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/HTMLExporter.d",
