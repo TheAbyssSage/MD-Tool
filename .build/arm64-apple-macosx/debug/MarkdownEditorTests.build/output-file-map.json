@@ -2,6 +2,13 @@
   "": {
     "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/primary.swiftdeps"
   },
+  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift": {
+    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.d",
+    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o",
+    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swiftdeps",
+    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.dia"
+  },
   "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift": {
     "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.d",
     "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o",
@@ -16,6 +23,13 @@
     "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swiftdeps",
     "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.dia"
   },
+  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift": {
+    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.d",
+    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o",
+    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swiftdeps",
+    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.dia"
+  },
   "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift": {
     "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.d",
     "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o",
@@ -29,5 +43,12 @@
     "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests~partial.swiftmodule",
     "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swiftdeps",
     "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.dia"
+  },
+  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift": {
+    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.d",
+    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o",
+    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swiftdeps",
+    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.dia"
   }
 }

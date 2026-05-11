@@ -414,6 +414,10 @@
       "inputs" : [
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift"
         },
         {
@@ -422,11 +426,19 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
         },
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift"
         },
         {
           "kind" : "file",
@@ -445,10 +457,13 @@
       "moduleName" : "MarkdownEditorTests",
       "moduleOutputPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule",
       "objects" : [
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -509,11 +524,19 @@
       "outputs" : [
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o"
         },
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/ExportEngineTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o"
         },
         {
           "kind" : "file",
@@ -525,15 +548,22 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportEngineTests.swift",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift"
       ],
       "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build",
       "wholeModuleOptimization" : false
@@ -695,10 +725,13 @@
       "-package-name",
       "markdown_editor",
       "-c",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/ExportEngineTests.swift",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift",
       "-I",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
       "-target",
@@ -1078,6 +1111,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/DOCXExporterTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/EditorViewTests.swift.o"
         },
         {
@@ -1086,11 +1123,19 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/JPEGExporterTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
         },
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/PDFExporterTests.swift.o"
         },
         {
           "kind" : "file",
@@ -1180,6 +1225,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/DOCXExporterTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/EditorViewTests.swift"
         },
         {
@@ -1188,11 +1237,19 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/JPEGExporterTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
         },
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/PDFExporterTests.swift"
         }
       ],
       "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources"
