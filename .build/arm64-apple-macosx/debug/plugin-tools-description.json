@@ -40,7 +40,87 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
         },
         {
           "kind" : "file",
@@ -53,7 +133,8 @@
       "objects" : [
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/ContentView.swift.o",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownDocument.swift.o",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -69,6 +150,12 @@
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
         "-module-cache-path",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
@@ -121,6 +208,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditor.swiftmodule"
         }
       ],
@@ -128,7 +219,8 @@
       "sources" : [
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift",
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift"
       ],
       "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build",
       "wholeModuleOptimization" : false
@@ -177,6 +269,12 @@
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
         "-module-cache-path",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
@@ -240,6 +338,10 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/swift-version--58304C5D6DBC2206.txt"
         },
         {
@@ -255,7 +357,8 @@
       "moduleName" : "MarkdownEditorTests",
       "moduleOutputPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule",
       "objects" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
       ],
       "otherArguments" : [
         "-target",
@@ -273,6 +376,12 @@
         "-DSWIFT_PACKAGE",
         "-DDEBUG",
         "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+        "-Xcc",
+        "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+        "-Xcc",
+        "-I",
+        "-Xcc",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
         "-module-cache-path",
         "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
         "-parseable-output",
@@ -314,12 +423,17 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules/MarkdownEditorTests.swiftmodule"
         }
       ],
       "prepareForIndexing" : false,
       "sources" : [
-        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
+        "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
       ],
       "tempsPath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build",
       "wholeModuleOptimization" : false
@@ -339,6 +453,7 @@
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/ContentView.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownDocument.swift",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift",
       "-I",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
       "-target",
@@ -354,6 +469,12 @@
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
       "-module-cache-path",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
@@ -417,6 +538,12 @@
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
       "-module-cache-path",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
@@ -461,6 +588,7 @@
       "markdown_editor",
       "-c",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift",
       "-I",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/Modules",
       "-target",
@@ -478,6 +606,12 @@
       "-DSWIFT_PACKAGE",
       "-DDEBUG",
       "-DSWIFT_MODULE_RESOURCE_BUNDLE_UNAVAILABLE",
+      "-Xcc",
+      "-fmodule-map-file=/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/module.modulemap",
+      "-Xcc",
+      "-I",
+      "-Xcc",
+      "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include",
       "-module-cache-path",
       "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/ModuleCache",
       "-parseable-output",
@@ -516,14 +650,19 @@
   },
   "targetDependencyMap" : {
     "MarkdownEditor" : [
-
+      "cmark"
     ],
     "MarkdownEditorPackageTests" : [
       "MarkdownEditorTests",
-      "MarkdownEditor"
+      "MarkdownEditor",
+      "cmark"
     ],
     "MarkdownEditorTests" : [
-      "MarkdownEditor"
+      "MarkdownEditor",
+      "cmark"
+    ],
+    "cmark" : [
+
     ]
   },
   "testDiscoveryCommands" : {
@@ -580,6 +719,10 @@
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownEditorApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift"
         }
       ],
       "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/sources"
@@ -602,6 +745,86 @@
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
         }
       ],
       "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.product/Objects.LinkFileList"
@@ -641,11 +864,95 @@
         },
         {
           "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o"
+        },
+        {
+          "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.build/runner.swift.o"
         },
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownEditorTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/MarkdownParserTests.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/blocks.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/buffer.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/cmark_ctype.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/commonmark.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_href_e.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_e.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/houdini_html_u.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/html.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/inlines.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/iterator.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/latex.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/man.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/node.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/references.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/render.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/scanners.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/utf8.c.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/cmark.build/xml.c.o"
         }
       ],
       "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorPackageTests.product/Objects.LinkFileList"
@@ -660,6 +967,10 @@
         {
           "kind" : "file",
           "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownEditorTests.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Tests/MarkdownEditorTests/MarkdownParserTests.swift"
         }
       ],
       "outputFilePath" : "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditorTests.build/sources"

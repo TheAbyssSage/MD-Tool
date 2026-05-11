@@ -22,5 +22,12 @@
     "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp~partial.swiftmodule",
     "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.swiftdeps",
     "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownEditorApp.dia"
+  },
+  "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/Sources/MarkdownEditor/MarkdownParser.swift": {
+    "dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.d",
+    "object": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swift.o",
+    "swiftmodule": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.swiftdeps",
+    "diagnostics": "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/arm64-apple-macosx/debug/MarkdownEditor.build/MarkdownParser.dia"
   }
 }

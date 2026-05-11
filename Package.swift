@@ -11,9 +11,15 @@ let package = Package(
             targets: ["MarkdownEditor"]
         ),
     ],
+    dependencies: [
+        .package(url: "https://github.com/apple/swift-cmark.git", branch: "main"),
+    ],
     targets: [
         .executableTarget(
-            name: "MarkdownEditor"
+            name: "MarkdownEditor",
+            dependencies: [
+                .product(name: "cmark", package: "swift-cmark"),
+            ]
         ),
         .testTarget(
             name: "MarkdownEditorTests",

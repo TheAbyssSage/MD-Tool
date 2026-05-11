@@ -1,0 +1,4 @@
+module cmark {
+    umbrella header "/Users/sage/Downloads/MD-Tool/.worktrees/markdown-editor/.build/checkouts/swift-cmark/src/include/cmark.h"
+    export *
+}
